@@ -64,7 +64,7 @@ The engine is organized into a **Visual Studio solution** with two primary proje
 
 ### **4. Performance-Focused**
 - Designed with performance in mind, the engine optimizes memory usage and rendering speed.
-- **OpenGL** ensures that rendering is handled efficiently, and the engine’s internal systems are optimized for fast execution.
+- **OpenGL** ensures that rendering is handled efficiently, and the engineï¿½s internal systems are optimized for fast execution.
 
 ### **5. Input Management**
 - The engine supports basic input handling for keyboard and mouse events.
@@ -80,7 +80,7 @@ The **Engine** is built as a **DLL**, which allows you to easily integrate it in
 ### **Why a DLL?**
 - **Flexibility**: The **Engine DLL** can be reused across multiple projects, making it a versatile tool for various types of applications.
 - **Modular Updates**: Updating the engine does not require recompiling the entire application. You only need to replace the DLL file.
-- **Smaller Executable**: The **Sandbox EXE** remains lightweight because it doesn’t include the engine’s code directly—only references the DLL.
+- **Smaller Executable**: The **Sandbox EXE** remains lightweight because it doesnï¿½t include the engineï¿½s code directlyï¿½only references the DLL.
 
 ### **Sandbox as a Testing Ground**
 - The **Sandbox** project is a testing environment where you can quickly prototype and experiment with different features of the engine.
@@ -106,8 +106,8 @@ The **Engine** is built as a **DLL**, which allows you to easily integrate it in
 
 ### **Running the Sandbox**
 Once the build is complete:
-- Run the **Sandbox EXE** to test the engine’s features and functionality.
-- Modify the code in the **Sandbox** project to experiment with the engine’s capabilities.
+- Run the **Sandbox EXE** to test the engineï¿½s features and functionality.
+- Modify the code in the **Sandbox** project to experiment with the engineï¿½s capabilities.
 
 ---
 
@@ -124,12 +124,12 @@ Once the engine is built and integrated with the Sandbox, you can start developi
 
 ## **Contributing**
 
-We welcome contributions to improve the engine! If you’d like to contribute, follow these steps:
+We welcome contributions to improve the engine! If youï¿½d like to contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Implement your changes and test them thoroughly.
-4. Submit a pull request with a description of the changes you’ve made.
+4. Submit a pull request with a description of the changes youï¿½ve made.
 
 ---
 
@@ -161,5 +161,5 @@ We hope this engine helps you create amazing games and experiences. Enjoy coding
 
 ---
 
-This **README** provides a detailed explanation of the engine’s structure, usage, and how to get started with it. It also includes visual elements and clear sections to make it more attractive and easy to follow on GitHub.
+This **README** provides a detailed explanation of the engineï¿½s structure, usage, and how to get started with it. It also includes visual elements and clear sections to make it more attractive and easy to follow on GitHub.
 **THIS GAME ENGINE IS BASED ON CHERNO's Hazel Engine AND DEVELOPED BY SAIDAKHMAD RIZAEV. ENGINE USES APACHE 2.0 LICENSE**
